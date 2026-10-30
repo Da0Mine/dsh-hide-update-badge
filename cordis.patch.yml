@@ -1,0 +1,5 @@
+# 把本插件挂进 profile 的浏览器/宿主名单。
+# 浏览器半身由 package.json 的 dsh.client 声明，并绑定在 name 为裸包名的这一行上。
+- insert:
+    - id: dsh-hide-update-badge
+      name: 'dsh-hide-update-badge'
