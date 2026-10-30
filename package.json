@@ -1,6 +1,6 @@
 {
   "name": "dsh-hide-update-badge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hide the built-in DSH Desktop update badge (the “新版本” pill beside the account button). Pure CSS + label-based hiding; update checking itself keeps working. | 隐藏 DSH 桌面版自带的「新版本」更新角标，不改变更新检查行为。",
   "license": "MIT",
   "author": "江浩文 (Da0Mine)",
